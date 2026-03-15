@@ -57,7 +57,7 @@ const storyData = {
     },
     guard_bribe: {
         img: "bribe.jpg",
-        lines: ["The guards look at the pearls. 'These are fake!' one yells.", "But Stefano (your twin) steps in. 'Leave her to me, boys.'", "He whispers: 'Nick, it's me, Stefano! I've missed you!'"],
+        lines: ["The guards look at the pearls. 'These are fake!' one yells.", "But Stefano (your twin) steps in. 'Leave him to me, boys.'", "He whispers: 'Nick, it's me, Stefano! I've missed you!'"],
         btns: [{ text: "Hug your brother", next: "twin_reunion" }]
     },
     slap: {
